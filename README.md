@@ -38,7 +38,9 @@
 <br>  
     
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> Github Stats </h2>
-[![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra)](https://github.com/AchyutaMohapatra/github-readme-stats)
+ 
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/AchyutaMohapatra-r/AchyutaMohapatra-r?style=for-the-badge)](https://github.com/AchyutaMohapatra)  
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
