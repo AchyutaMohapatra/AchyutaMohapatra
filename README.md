@@ -46,11 +46,10 @@
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutaMohapatra)](https://github.com/AchyutaMohapatra/github-readme-stats)
+
+
   
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutaMohapatra&langs_count=5&theme=tokyonight)]()
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/AchyutaMohapatra-r/AchyutaMohapatra-r?style=for-the-badge)](https://github.com/AchyutaMohapatra)  
+  ![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=AchyutaMohapatra&repo=github-visitors-badge&countColor=%237B1E7A)
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
 <a href="#" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](#) 
