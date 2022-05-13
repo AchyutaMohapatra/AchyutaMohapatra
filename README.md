@@ -41,6 +41,8 @@
  
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true)
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://git.io/awesome-stats-card)
 
 [![Visits Badge](https://badges.pufler.dev/visits/AchyutaMohapatra-r/AchyutaMohapatra-r?style=for-the-badge)](https://github.com/AchyutaMohapatra)  
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
