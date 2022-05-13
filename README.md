@@ -31,7 +31,6 @@
 <a href="#" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="jyupter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="#" target="_blank"> <img alt="AWS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=AWS&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <br>  
