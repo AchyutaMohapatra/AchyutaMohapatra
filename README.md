@@ -38,11 +38,7 @@
 <br>  
     
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> Github Stats </h2>
-<a href="https://github.com/AchyutaMohapatra-r/github-readme-stats"><img alt="Achyuta Github Stats" src="https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra-r&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AchyutaMohapatra-r/github-readme-stats"><img alt="Achyuta Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutaMohapatra-r&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/handshake_1f91d.png" align="center"
-                width="28" /> Connect With Me</h2>
+[![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra)](https://github.com/AchyutaMohapatra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/AchyutaMohapatra-r/AchyutaMohapatra-r?style=for-the-badge)](https://github.com/AchyutaMohapatra)  
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
