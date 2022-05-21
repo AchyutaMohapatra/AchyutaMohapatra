@@ -42,7 +42,10 @@
   
 <!--    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra) -->
   
-    <p align="center">
+  
+  
+  
+<p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=AchyutaMohapatra&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
