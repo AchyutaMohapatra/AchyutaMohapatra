@@ -55,7 +55,7 @@
 </p>
   
   
-  [![activity graph](https://activity-graph.herokuapp.com/graph?username=AchyutaMohapatra&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/AchyutaMohpatra/github-readme-activity-graph)
+  [![activity graph](https://activity-graph.herokuapp.com/graph?username=AchyutaMohapatra&custom_title=Achyuta's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/AchyutaMohpatra/github-readme-activity-graph)
 
 
   
