@@ -57,6 +57,8 @@
   
   [![activity graph](https://activity-graph.herokuapp.com/graph?username=AchyutaMohapatra&custom_title=Achyuta's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/AchyutaMohpatra/github-readme-activity-graph)
 
+  
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AchyutaMohapatra&theme=highcontrast&hide_border=true" width="350" /></a>
 
   
   ![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=AchyutaMohapatra&repo=github-visitors-badge&countColor=%237B1E7A)
