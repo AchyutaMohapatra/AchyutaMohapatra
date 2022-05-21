@@ -40,8 +40,9 @@
   
   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true)
   
+   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchyutaMohapatra)](https://github.com/AchyutaMohapatra/github-readme-stats)
+  
   
   
   
