@@ -38,7 +38,7 @@
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 32px> Github Stats </h2>
   
   
-  ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true)
+<!--   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true) -->
   
    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
   
