@@ -66,7 +66,7 @@
 
    -->
   
-  [![Achyuta's github activity graph](https://activity-graph.herokuapp.com/graph?username=AchyutaMohapatra&theme=dracula)](https://github.com/AchyutaMohapatra/github-readme-activity-graph)
+  [![Achyuta's github activity graph](https://activity-graph.herokuapp.com/graph?username=AchyutaMohapatra)](https://github.com/AchyutaMohapatra/github-readme-activity-graph)
   
   ![Visits Badge](https://api.visitorbadge.io/api/VisitorHit?user=AchyutaMohapatra&repo=github-visitors-badge&countColor=%237B1E7A)
 <a href="#" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22"></a>
