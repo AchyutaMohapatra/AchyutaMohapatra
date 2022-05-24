@@ -44,7 +44,7 @@
   
 <!--   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true) -->
   
-   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
+
   
   
   
@@ -53,6 +53,10 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=AchyutaMohapatra&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+  
+   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
+  
+  
   
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=AchyutaMohapatra&theme=highcontrast&hide_border=true" width="350" /></a>
 
