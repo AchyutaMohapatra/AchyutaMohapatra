@@ -53,7 +53,7 @@
 </p>
  -->
   
-   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
+<!--    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra) -->
   
   
   
