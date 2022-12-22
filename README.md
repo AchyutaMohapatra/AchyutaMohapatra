@@ -38,7 +38,7 @@
 <a href="#" target="_blank"><img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <br>  
     
-<h2> Github Stats </h2>
+<!-- <h2> Github Stats </h2> -->
   
   
 <!--   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true) -->
@@ -48,10 +48,10 @@
   
   
   
-<p align="center">
+<!-- <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=AchyutaMohapatra&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
+ -->
   
    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AchyutaMohapatra)](https://github.com/AchyutaMohapatra)
   
