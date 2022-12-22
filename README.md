@@ -37,11 +37,11 @@
 <a href="#" target="_blank"><img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="#" target="_blank"><img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
 <br>  
-    
+<!--     
 <h2> Github Stats </h2>
   
   
-<!--   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true) -->
+<!--   ![Achyuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchyutaMohapatra&theme=dark&show_icons=true) --> -->
   
 
   
