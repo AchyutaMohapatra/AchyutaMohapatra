@@ -1,4 +1,4 @@
-[![Matrix SVG]()](https://www.linkedin.com/in/achyuta-kumar-mohapatra-54894a21a/) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/achyuta-kumar-mohapatra-54894a21a/) 
 <h1> Hello Fellow < Developers/ >! I am Achyuta Mohapatra.</h1>
 <p align='center'>
 </p>
