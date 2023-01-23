@@ -11,7 +11,7 @@
                 width="28" />     About Me </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-- 🔭 I’m currently working on Portfolio Website
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning React.js and DSA Problem Solving Skills
 - 👯 I’m looking to collaborate on Frontend and Django Projects
 - 🤔 I’m looking for help with React.js and DSA
@@ -19,7 +19,8 @@
 - 📫 How to reach me: achyutamohapatraofficial@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I say no to Tea & Coffee
-- ✌ https://achyutamohapatra.netlify.app/
+- ✌ Portfolio:- https://achyutamohapatra.netlify.app/ 
+- 💬 Any queries - https://achyuta.vercel.app/ 
 
 <h2>Languages and Tools </h2>
 <br>  
