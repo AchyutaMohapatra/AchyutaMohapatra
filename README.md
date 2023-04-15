@@ -1,6 +1,6 @@
 <!-- <img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding"> -->
 
-
+<img align="right" width="400px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 <h1 align="center">Hi 👋, I'm </h1>
 <p align='center'>
 </p>
