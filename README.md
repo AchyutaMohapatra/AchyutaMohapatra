@@ -24,7 +24,7 @@
 - ⚡ Fun fact: I say no to Tea & Coffee
 - ✌ Portfolio:- https://achyutamohapatra.netlify.app/ 
 - 💬 Any queries - https://achyuta.vercel.app/ 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GI1l2ljHN_Rq0Dj2YJxYMyNMUiqOF0Y7/view)
 
 <h2>Languages and Tools </h2>
 <br>  
