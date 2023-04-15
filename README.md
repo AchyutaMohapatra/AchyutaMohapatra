@@ -1,5 +1,7 @@
 <!-- <img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding"> -->
-<h1> 🙏Namaste! I am Achyuta Mohapatra.</h1>
+
+
+<h1 align="center">Hi 👋, I'm </h1>
 <p align='center'>
 </p>
 <p>
