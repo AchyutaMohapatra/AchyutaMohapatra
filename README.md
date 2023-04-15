@@ -14,8 +14,8 @@
                 width="28" />     About Me </h2> -->
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning React.js and DSA Problem Solving Skills
+- 🔭 I’m currently working on Projects.
+- 🌱  I’m currently learning **Advance JavaScript(ES6), React** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - 👯 I’m looking to collaborate on Frontend and Django Projects
 - 🤔 I’m looking for help with React.js and DSA
 - 💬 Ask me about Technology Cinema Anime Music and Sports
@@ -24,6 +24,7 @@
 - ⚡ Fun fact: I say no to Tea & Coffee
 - ✌ Portfolio:- https://achyutamohapatra.netlify.app/ 
 - 💬 Any queries - https://achyuta.vercel.app/ 
+- 📄 Know about my experiences [Resume]()
 
 <h2>Languages and Tools </h2>
 <br>  
