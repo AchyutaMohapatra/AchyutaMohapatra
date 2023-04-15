@@ -11,7 +11,7 @@
 </p>
 <!-- <h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" />     About Me </h2> -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning React.js and DSA Problem Solving Skills
